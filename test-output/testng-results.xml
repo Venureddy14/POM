@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63400" started-at="2017-12-27T09:15:03Z" finished-at="2017-12-27T09:16:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63400" started-at="2017-12-27T09:15:03Z" finished-at="2017-12-27T09:16:06Z">
+      <class name="testScripts.ScenarioScript26dec">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:testScripts.ScenarioScript26dec@482f8f11]" name="launchbrowser" is-config="true" duration-ms="3744" started-at="2017-12-27T14:45:03Z" finished-at="2017-12-27T14:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="productaddingHightoLow()[pri:0, instance:testScripts.ScenarioScript26dec@482f8f11]" name="productaddingHightoLow" duration-ms="59465" started-at="2017-12-27T14:45:07Z" finished-at="2017-12-27T14:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productaddingHightoLow -->
+        <test-method status="PASS" signature="ScreenShot(org.testng.ITestResult)[pri:0, instance:testScripts.ScenarioScript26dec@482f8f11]" name="ScreenShot" is-config="true" duration-ms="173" started-at="2017-12-27T14:46:06Z" finished-at="2017-12-27T14:46:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productaddingHightoLow status=SUCCESS method=ScenarioScript26dec.productaddingHightoLow()[pri:0, instance:testScripts.ScenarioScript26dec@482f8f11] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+      </class> <!-- testScripts.ScenarioScript26dec -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
